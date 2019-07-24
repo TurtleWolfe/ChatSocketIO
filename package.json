@@ -1,0 +1,22 @@
+{
+  "name": "chatsocket",
+  "version": "0.0.1",
+  "description": "Real Time Chat using Socket IO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "Socket.io",
+    "Real-Time",
+    "Draggable",
+    "Dice"
+  ],
+  "author": "TurtleWolfe.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
