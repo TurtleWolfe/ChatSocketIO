@@ -1,4 +1,19 @@
-# ChatSocketIO
+# ChatSocketIO from scratch
+
+```bash
+  mkdir ChatSocketIO
+  cd ChatSocketIO
+  npm init
+  npm install express --save
+  npm install socket.io --save
+  touch server.js
+```
+
+```bash  
+  node server.js
+```  
+
+# or.. to install from this repo
 
 ```bash
   node -v
@@ -17,15 +32,3 @@
   git status
   sudo nano ~/ChatSocketIO/README.md
 ```
-```bash
-  mkdir ChatSocketIO
-  cd ChatSocketIO
-  npm init
-  npm install express --save
-  npm install socket.io --save
-  touch server.js
-```
-
-```bash  
-  node server.js
-```  
