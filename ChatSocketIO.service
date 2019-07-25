@@ -1,5 +1,5 @@
 [Unit]
-Description=My app
+Description=NodeJS Socket.IO Chat app with Drag-able Dice Captain Ship & Crew
 
 [Service]
 ExecStart=/var/www/ChatSocketIO/server.js
