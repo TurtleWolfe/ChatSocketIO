@@ -1,4 +1,4 @@
-# ChatSocketIO from scratch
+# to install from this repo
 
 ```bash
   mkdir ChatSocketIO
@@ -13,7 +13,7 @@
   node server.js
 ```  
 
-# or.. to install from this repo
+## or.. ChatSocketIO from scratch
 
 ```bash
   node -v
@@ -32,3 +32,7 @@
   git status
   sudo nano ~/ChatSocketIO/README.md
 ```
+
+## [ChatSocketIO Draggable Dice DockerFile React AWS](http://ec2-52-87-220-90.compute-1.amazonaws.com/ "Node / NGINX ; Docker : AWS")
+
+## [SocketIO Introduction](https://socket.io/get-started/chat/ "SocketIO Introduction")
